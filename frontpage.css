@@ -81,7 +81,7 @@
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(500px, 2fr));
     gap: 4rem;
-    background-color: rgb(108, 212, 241);
+    background-color:"light pink;
   }
 
   .info-card {
